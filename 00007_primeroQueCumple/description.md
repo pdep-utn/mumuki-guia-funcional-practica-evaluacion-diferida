@@ -4,5 +4,7 @@ Ejemplo:
 
 ```haskell
 ム (>10) 1 (*2)
-16 -- porque es el primer cuadrado 
+16 -- porque es el primer número 
+-- en la secuencia 1, 2, 4, 8, 16 que es mayor a 10
+```
 
