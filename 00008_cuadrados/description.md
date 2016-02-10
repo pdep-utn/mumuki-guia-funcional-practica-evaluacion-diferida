@@ -1,0 +1,1 @@
+Escribí una constante `cuadrados`, que 

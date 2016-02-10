@@ -2,3 +2,5 @@
 expectations:
 - binding: primerosN
   inspection: HasUsage:iterate
+- binding: ''
+  inspection: ''
