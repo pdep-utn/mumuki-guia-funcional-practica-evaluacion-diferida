@@ -1,4 +1,4 @@
-describe "primeroQueCumple" $ do
+describe "primeroQueCumple" $ do 
   
   it "primeroQueCumple" $ do
     primeroQueCumple (>10) 1 (*2) `shouldBe` 16
