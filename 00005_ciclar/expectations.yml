@@ -2,3 +2,5 @@
 expectations:
 - binding: ciclar
   inspection: Not:HasDirectRecursion
+- binding: ''
+  inspection: ''
