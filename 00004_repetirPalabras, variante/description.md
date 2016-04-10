@@ -1,4 +1,5 @@
-Volvé a definir la función `repetirPalabras`, esta vez utilizando `zipWith`: 
+Volvé a definir la función `repetirPalabras`, esta vez utilizando `zipWith :: 
+ (a -> b -> c) -> [a] -> [b] -> [c]` y `repeat  :: a -> [a]`, no `iterate`: 
 
 
 ```haskell
