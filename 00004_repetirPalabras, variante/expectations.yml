@@ -2,5 +2,3 @@
 expectations:
 - binding: repetirPalabras
   inspection: HasUsage:zipWith
-- binding: ''
-  inspection: ''
