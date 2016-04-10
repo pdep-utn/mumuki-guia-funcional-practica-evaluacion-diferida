@@ -1,1 +1,1 @@
-Tip: usar `cycle`
+Tip: usar `cycle :: [a] -> [a]`
